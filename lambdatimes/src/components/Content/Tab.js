@@ -4,7 +4,7 @@ import PropTypes, { string } from 'prop-types';
 
 const Tab = props => {
 
-  console.log(props.selectTabHandler)
+  // console.log(props.selectTabHandler)
   
   
     var doggy = ''
